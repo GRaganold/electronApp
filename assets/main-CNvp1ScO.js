@@ -1,0 +1,1 @@
+import{r as s,j as t,R as c}from"./index-8uvJLHDF.js";function o(){const[e,n]=s.useState(0);return t.jsxs(t.Fragment,{children:[t.jsx("h1",{children:"Vite + React + Electron"}),t.jsx("div",{className:"card",children:t.jsxs("button",{onClick:()=>n(r=>r+1),children:["count is ",e]})})]})}c.createRoot(document.getElementById("root")).render(t.jsx(o,{}));
